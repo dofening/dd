@@ -13,4 +13,4 @@
 歌词动画与界面基于 [Folia](https://github.com/chthollyphile/folia-major)，按 AGPL-3.0 发布，许可全文见 [LICENSE](LICENSE)。
 本站对应的完整源码：[source/folia-lyrics-source.zip](source/folia-lyrics-source.zip)。
 
-非 Spotify 官方产品。
+非 Spotify 官方产品。 
