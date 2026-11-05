@@ -1,0 +1,1 @@
+import{on as e,sn as t}from"./app-CzbkgKns.js";export{t as __iconData,e as default};
