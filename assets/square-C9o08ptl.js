@@ -1,0 +1,1 @@
+import{i as e}from"./standalone-DxBBjsAj.js";import{t}from"./createLucideIcon-C48HL_o_.js";var n=e({__iconData:()=>r,default:()=>i}),r={name:`square`,size:24,node:[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}]]};r.node;var i=t(r);export{n,i as t};

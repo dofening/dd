@@ -1,0 +1,1 @@
+import{Bt as e,Vt as t}from"./app-qFqhvVAm.js";export{t as __iconData,e as default};
