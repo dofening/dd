@@ -1,0 +1,1 @@
+import{Xt as e,Yt as t}from"./app-BZJBiHpC.js";export{e as __iconData,t as default};

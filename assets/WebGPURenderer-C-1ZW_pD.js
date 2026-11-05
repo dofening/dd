@@ -1,0 +1,1 @@
+import{WebGPURenderer as e}from"./lib-DK6CHOlI.js";export{e as WebGPURenderer};
