@@ -1,0 +1,1 @@
+import{i as e}from"./standalone-CqA5g4XM.js";import{t}from"./createLucideIcon-6TR0X41u.js";var n=e({__iconData:()=>r,default:()=>i}),r={name:`cone`,size:24,node:[[`path`,{d:`m20.9 18.55-8-15.98a1 1 0 0 0-1.8 0l-8 15.98`,key:`53pte7`}],[`ellipse`,{cx:`12`,cy:`19`,rx:`9`,ry:`3`,key:`1ji25f`}]]};r.node;var i=t(r);export{n,i as t};

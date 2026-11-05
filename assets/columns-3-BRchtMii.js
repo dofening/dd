@@ -1,0 +1,1 @@
+import{i as e}from"./standalone-CqA5g4XM.js";import{t}from"./createLucideIcon-6TR0X41u.js";var n=e({__iconData:()=>r,default:()=>i}),r={name:`columns-3`,size:24,node:[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M9 3v18`,key:`fh3hqa`}],[`path`,{d:`M15 3v18`,key:`14nvp0`}]],aliases:[`panels-left-right`]};r.node;var i=t(r);export{n,i as t};

@@ -1,0 +1,1 @@
+import{i as e}from"./standalone-CqA5g4XM.js";import{t}from"./createLucideIcon-6TR0X41u.js";var n=e({__iconData:()=>r,default:()=>i}),r={name:`loader-circle`,size:24,node:[[`path`,{d:`M21 12a9 9 0 1 1-6.219-8.56`,key:`13zald`}]],aliases:[`loader-2`]};r.node;var i=t(r);export{n,i as t};
