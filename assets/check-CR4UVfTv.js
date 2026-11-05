@@ -1,0 +1,1 @@
+import{i as e}from"./standalone-DHRaed5v.js";import{t}from"./createLucideIcon-DpGsCu_7.js";var n=e({__iconData:()=>r,default:()=>i}),r={name:`check`,size:24,node:[[`path`,{d:`M20 6 9 17l-5-5`,key:`1gmf2c`}]]};r.node;var i=t(r);export{n,i as t};

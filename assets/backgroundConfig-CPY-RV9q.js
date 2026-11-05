@@ -1,0 +1,1 @@
+import{un as e}from"./stageLayers-D5PkBGTx.js";var t=t=>({...t.background,common:{...t.background?.common,disableGeometricBackground:!!t.background?.common?.disableGeometricBackground||(t.fumeTuning?.disableGeometricBackground??e.disableGeometricBackground)}});export{t};
